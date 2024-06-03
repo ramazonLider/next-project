@@ -1,7 +1,5 @@
-import '@/styles/css.css';
-import '@/styles/global.css';
-import '@/styles/static.css';
-
+// import '../styles/css.css';
+// import '../styles/static.css';
 
 export default function HomePage() {
   return (
